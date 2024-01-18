@@ -1,0 +1,16 @@
+.heading {
+	border: 3px double #0000FF;
+	background-color: orange;
+}
+
+.par1 {
+	border: 5px dashed yellow;
+}
+
+.par2 {
+	border: 7px dotted magenta;
+}
+
+.par3 {
+	border: 10px solid green;
+}

@@ -1,0 +1,17 @@
+.container img {
+	width: 400px;
+	display: block;
+	margin: auto;
+	padding: 100px;
+	border: 1px solid black;
+}
+
+.container {
+	display: inline-block;
+	background-color: white;
+}
+
+.textcontainer {
+	display: inline-block;
+	background-color: lightgray;
+}

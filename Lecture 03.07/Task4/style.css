@@ -1,0 +1,50 @@
+.header {
+	margin-top: 10px;
+}
+
+.nav {
+	width: 78%;
+}
+
+.nav li {
+	display: inline-block;
+	text-decoration: none;
+	padding: 20px;
+}
+
+.nav ul {
+	text-align: right;
+}
+
+.nav a {
+	text-decoration: none;
+	text-transform: uppercase;
+	color: darkblue;
+}
+
+.nav, .logo {
+	display: inline-block;
+}
+
+.logo img {
+	width: 80px;
+	display: block;
+	margin: auto;
+}
+
+.logo {
+	width: 15%;
+}
+
+img {
+	width: 100%
+}
+.image, .text {
+	display: inline-block;
+	width: 45%;
+	padding: 10px;
+}
+
+.image {
+	vertical-align: middle;
+}

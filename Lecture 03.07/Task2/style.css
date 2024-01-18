@@ -1,0 +1,35 @@
+.nav a{
+	text-decoration: none;
+	color: white;
+	font-size: 17px;
+}
+
+.nav li {
+	display: inline-block;
+	padding: 10px;
+}
+
+.nav {
+	background-color: #888888;
+	padding: 5px;
+	text-align: right;
+}
+
+.section {
+	padding: 30px;
+	text-align: center;
+}
+
+.image {
+	display: inline-block;
+}
+
+.image img {
+	width: 200px;
+}
+
+.info {
+width: 500px;
+display: inline-block;
+padding: 10px;
+}
