@@ -1,0 +1,53 @@
+ul.ulClass {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0 0 0 540px;
+  overflow: hidden;
+}
+
+li.liClass {
+  float: left;
+  border-bottom: 2px solid #bbb;
+  border-right: 2px solid #bbb;
+  border-top: 2px solid #bbb;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: large;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: white;
+}
+
+a:link {
+      color: black;
+  }
+
+li:last-child {
+  border-right: none;
+}
+
+td {
+  font-size: 120%;
+  padding: 0 0 0 200px;
+}
+
+h1{
+  text-align: center;
+  font-size: 35px;
+}
+
+h2{
+  font-size: 25px;
+}
+
+p {
+  font-size: 18px;
+};
