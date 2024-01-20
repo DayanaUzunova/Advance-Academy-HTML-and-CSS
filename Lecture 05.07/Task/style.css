@@ -1,0 +1,23 @@
+.box1 {
+	background-color: red;
+	padding-bottom: 40%;
+	position: static;
+	top: 50px;
+	color: green;
+	transition: 0.5s;
+}
+
+.box1:hover {
+	background-color: blue;
+	color: gold;
+}
+
+.box2 {
+	background-color: skyblue;
+	position: relative;
+}
+
+.box3 {
+	background-color: seagreen;
+	position: fixed;
+}

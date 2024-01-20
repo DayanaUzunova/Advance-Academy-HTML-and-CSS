@@ -1,0 +1,46 @@
+.nav ul li {
+	display: inline-block;
+	padding: 13px;
+}
+
+.nav {
+	text-align: center;
+}
+
+.nav a {
+	text-decoration: none;
+	color: red;
+}
+
+.nav a:hover {
+	text-decoration: underline;
+	text-transform: uppercase;
+	background-color: red;
+	color: white;
+}
+
+.nav a:active {
+	color: white;
+	background-color: orangered;
+}
+
+.image {
+	width: 50%;
+	margin: auto;
+}
+.image img {
+	margin: auto;
+	display: block;
+}
+
+.image img:hover {
+	opacity: 0.5;
+}
+
+.par {
+	margin-top: 50px;
+}
+
+.par p:hover {
+	border: 5px double black;
+}
