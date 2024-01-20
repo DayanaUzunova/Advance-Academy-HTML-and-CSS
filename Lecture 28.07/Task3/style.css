@@ -1,0 +1,27 @@
+.first {
+	text-transform: capitalize;
+}
+
+.second {
+	text-decoration: line-through;}
+
+.third{
+	text-decoration: overline;
+}
+
+.forth {
+	text-decoration: underline;
+}
+
+.last {
+	text-transform: uppercase;
+}
+
+.par {
+	text-align: justify;
+	color: 
+#d3cade
+;
+}
+
+

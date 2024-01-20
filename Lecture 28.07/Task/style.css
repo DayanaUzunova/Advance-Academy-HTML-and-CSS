@@ -1,0 +1,30 @@
+p {
+	background-color: rgb(169, 196, 149);
+}
+
+h2 {
+	font-weight: lighter;
+}
+
+p {
+	text-decoration: underline;
+}
+
+.par {
+	text-transform: uppercase;
+	background-color: white;
+}
+
+p {
+	text-align: justify;
+}
+
+.image {text-align: center;}
+
+p{
+	display: block;
+}
+
+a {
+	display: inline-block;
+}

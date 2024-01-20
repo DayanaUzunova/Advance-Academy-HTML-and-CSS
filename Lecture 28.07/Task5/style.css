@@ -1,0 +1,33 @@
+header {
+	background-color: yellow;
+	text-align: center;
+}
+
+header a img {
+	width: 80px;
+	height: 80px;
+}
+
+header ul li{
+	display: inline-block;
+}
+
+header ul li a {
+	text-decoration: none;
+	text-transform: uppercase;
+	color: blue;
+}
+
+#photos img {
+	width: 400px;
+	height: 200px;
+	display: block;
+}
+
+footer {
+color: orangered;
+}
+
+footer form input {
+	display:  block;
+}
